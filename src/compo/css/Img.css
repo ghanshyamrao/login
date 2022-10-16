@@ -1,0 +1,14 @@
+.img img{
+   
+    height: 230px;
+    width: 380px;
+    border-radius: 8px;
+    box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.424);
+     
+}
+
+li{
+    display: flex;  
+    justify-content: center;
+    margin-top: 40px;
+}

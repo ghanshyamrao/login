@@ -1,0 +1,14 @@
+.admin{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center
+}
+
+.admin{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./img/5.jpg);
+    background-size:cover;
+  
+}
